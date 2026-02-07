@@ -1,2 +1,6 @@
-# HR-Attendance-Payroll-Analysis
-Entry-level business and HR data analysis project using Excel
+```
+Data/            -> Sample anonymized datasets
+Analysis/        -> Excel analysis and pivot tables
+Output/          -> Final charts and summaries
+Documentation/   -> Project explanation and insights
+```
